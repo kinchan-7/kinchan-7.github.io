@@ -1,0 +1,23 @@
+h1 {
+  font-weight: normal;
+}
+img {
+  width: 1000px;
+  opacity: 0.5;
+}
+.top {
+  background-image: url(スペイン村.JPG);
+  height: 900px;
+  opacity: 0.6;
+}
+.top-text {
+  padding: 20px 0px 0px 50px;
+}
+.top-text p {
+  padding-left: 80px;
+}
+.table {
+  margin: 50px 100px 0px 100px;
+  padding: 50px;
+  border:double #B2BABB;
+}
